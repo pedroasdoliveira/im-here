@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     color: "#fdfcfe",
     fontSize: 24,
     fontWeight: "bold",
-    marginTop: 16,
+    marginTop: 48,
   },
   eventDate: {
     color: "#6b6b6b",
